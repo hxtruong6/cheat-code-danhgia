@@ -1,5 +1,5 @@
 Random check two best options.
-
+```
 var arr = document.querySelectorAll("[id$='038']");
 var arr2 = document.querySelectorAll("[id$='037']");
 for (let i = 0; i<arr.length; i++) {
@@ -9,3 +9,4 @@ for (let i = 0; i<arr.length; i++) {
 }
 for (i = 0; i < 4; i++)
 	nextSection();
+```
